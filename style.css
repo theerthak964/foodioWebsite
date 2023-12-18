@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Explora&family=Kalam:wght@400;700&family=Lugrasimo&family=Lumanosimo&family=Nova+Square&family=Oswald:wght@400;500&family=Pacifico&family=Poppins:ital,wght@0,100;0,800;1,800&family=Press+Start+2P&family=Righteous&family=Roboto:wght@100;700&family=Satisfy&display=swap');
+
+*{
+    scroll-behavior: smooth;
+    font-family: "poppins  ",sans-serif;
+}
+.col-6 ,h1{
+    color: orange;
+    text-align: center;
+    font-family: "Press Start 2P";
+}
+.nav-item,a{
+font-weight: bold;
+font-size: x-large;
+
+}
+.nav-item a:hover{
+    color: orange;
+    transition: -4s;
+}
+span{
+    color: black;
+    font-family: "Press Start 2P",sans-serif;
+
+}
+header{
+    background-color: rgba(235, 211, 211, 0.953);
+    
+}
+
+
+#h2-first{
+
+   color: orange;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-top: 200px;
+}
+#p-first{
+    margin-top: 150px;
+    color: bisque;
+    font-size: larger;
+
+}
+
+#home-image{
+    width: 100%;
+    height: 80%;
+}
+#home-image:hover{
+    /* transform: 1s ease-in-out; */
+
+    transform: scale(1.1) ;
+}
+
+
+
+#menuh2{
+    /* text-align: center; */
+
+    font-family: "Press Start 2P",sans-serif;
+    color: rgb(255, 192, 65);
+
+
+
+}
+.card img:hover{
+    transform: scale(1.1) ;
+
+}
+
+
+.contact h1{
+    font-family: "poppins  ",sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+
+}
+#contact:hover{
+    transform: scale(1.1) ;
+
+}
+footer{
+    background-color: rgba(248, 181, 81, 0.632);
+    font-family: "poppins  ",sans-serif;
+    height: 300px;
+
+}
+i{
+    size: 10px;
+}
